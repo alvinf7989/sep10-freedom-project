@@ -1,7 +1,6 @@
 # Entry 1
 ##### X/X/XX
-
-Text
+HEre goes the text
 
 [Next](entry02.md)
 
