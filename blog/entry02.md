@@ -7,7 +7,11 @@ There was many info that I found about software and hardware for my topic which 
 * Culinary Arts
 * What Is Culinary Arts?
 
-We will have the 
+We will have the info on the next parts starting with...
+<hr>
+
+## Sources
+Even though I put many sources on the notes, I never seemed to put them in my entry. So I'm going to put the sources in here. The first source when searching up Culinary Arts was [What Is Culinary Arts? by EHL Insights](https://hospitalityinsights.ehl.edu/culinary-arts#:~:text=So%2C%20put%20simply%2C%20culinary%20arts,professions%20that%20involve%20food%20service). So, this is the source where I learned about Culinary Arts like the responsibility
 
 [Previous](entry01.md) | [Next](entry03.md)
 
