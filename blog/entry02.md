@@ -20,6 +20,7 @@ The first source when searching up Culinary Arts was [What Is Culinary Arts? by 
 On to the hardware parts of the sources. So I wrote on my notes that my former Google search was Culinary Hardware because that only showed me physical hardware, so my next search was "Digital Culinary hardware". I didn't go to the first website this time. Instead, I went to this reliable website called [Epicurious.com](https://www.epicurious.com/expert-advice/the-best-tablets-for-the-kitchen-article). This website talked about what tablets are the best for Kitchen uses in online recipes. According to the website, Apple iPads are the best kitchen tablets overall. My 2nd Google Search was "Culinary Electronic Gadgets". During page 1 of Google, I found another reliable source called [Culinary Hill](https://www.culinaryhill.com/cool-kitchen-gadgets/). This talks about 49 cool kitchen gadgets and I gotta say, they really mean what they say in the title. I was skimming through these cool gadgets until I found some that were electrical like this [Milk Frother](https://www.culinaryhill.com/wp-content/uploads/2023/06/2.-MasterChef-Battery-Operated-Milk-Frother.jpg). This may look non electrical, but this milk frother is actually powered by batteries. Most of the gadget's power sources on this website are either batteries or plugs. 
 
 ## Engineering Design Process (EDP)
+My Engineering Design Process was research because I was researching both the Culinary Software and Hardware. I'm still on
 
 [Previous](entry01.md) | [Next](entry03.md)
 
