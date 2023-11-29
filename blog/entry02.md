@@ -11,7 +11,7 @@ We will have the info on the next parts starting with...
 <hr>
 
 ## Sources
-Even though I put many sources on the notes, I never seemed to put them in my entry. So I'm going to put the sources in here. 
+Even though I put many sources on the notes, I never seemed to put them in my 1st entry. So I'm going to put the sources in here. 
 
 ### Software
 The first source when searching up Culinary Arts was [What Is Culinary Arts? by EHL Insights](https://hospitalityinsights.ehl.edu/culinary-arts#:~:text=So%2C%20put%20simply%2C%20culinary%20arts,professions%20that%20involve%20food%20service). So, this is the source where I learned about Culinary Arts like the responsibilities of all the senses to have satisfaction with what's prepared as food. I also put in my notes the software like how this source which is from another site called "EHL Insights" had no ad pop-ups, it's easy to navigate and that it can be used on any electronic device with a screen. The next search I had was "What Is Culinary Arts?", and I of course went to the first result which was, [What Are The Culinary Arts?](https://www.escoffier.edu/blog/culinary-arts/what-are-the-culinary-arts/). This is from one of those school websites which are mostly reliable. This school website was called "Auguste Escoffier School of Culinary Arts". I also said this has the same features as the last website. This also taught me things that I had never thoguht of. Like I didn't know Baking & Pastry Arts are different from Culinary Arts.
@@ -20,7 +20,9 @@ The first source when searching up Culinary Arts was [What Is Culinary Arts? by 
 On to the hardware parts of the sources. So I wrote on my notes that my former Google search was Culinary Hardware because that only showed me physical hardware, so my next search was "Digital Culinary hardware". I didn't go to the first website this time. Instead, I went to this reliable website called [Epicurious.com](https://www.epicurious.com/expert-advice/the-best-tablets-for-the-kitchen-article). This website talked about what tablets are the best for Kitchen uses in online recipes. According to the website, Apple iPads are the best kitchen tablets overall. My 2nd Google Search was "Culinary Electronic Gadgets". During page 1 of Google, I found another reliable source called [Culinary Hill](https://www.culinaryhill.com/cool-kitchen-gadgets/). This talks about 49 cool kitchen gadgets and I gotta say, they really mean what they say in the title. I was skimming through these cool gadgets until I found some that were electrical like this [Milk Frother](https://www.culinaryhill.com/wp-content/uploads/2023/06/2.-MasterChef-Battery-Operated-Milk-Frother.jpg). This may look non electrical, but this milk frother is actually powered by batteries. Most of the gadget's power sources on this website are either batteries or plugs. 
 
 ## Engineering Design Process (EDP)
-My Engineering Design Process was research because I was researching both the Culinary Software and Hardware. I'm still on
+My Engineering Design Process was **Research** because I was researching both the Culinary Software and Hardware. I did two searches for each "-ware". I'm almost done with this part of the process, so soon I will be on the next part of the EDP which is Brainstorming.
+
+## 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
