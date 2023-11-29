@@ -21,14 +21,27 @@ On to the hardware parts of the sources. So I wrote on my notes that my former G
 <hr>
 
 ## Engineering Design Process (EDP)
-My Engineering Design Process was **Research** because I was researching both the Culinary Software and Hardware. I did two searches for each "-ware". I'm almost done with this part of the process, so soon I will be on the next part of the EDP which is Brainstorming.
+My Engineering Design Process was **Research** because I was researching both the Culinary Software and Hardware. I did two searches for each Culinary `-ware` I'm almost done with this part of the process, so soon I will be on the next part of the EDP which is Brainstorming.
 <hr>
 
 ## Skills
 So I used to have only one skill, but now I have two. So I will go through those skills more detailed.
 
 ### How To Google
-Now "How To Google" was the only skill I had in entry 1, but I didn't add as much detail, so here I go. When I gooogled the sources for Culinary Software, I looked at the first website that was there and luckily, they were both reliable. However, when I googled the sources of Culinary Hardware, I looked through the rest of the websites in page 1 of Google rather than the first websites.
+Now "How To Google" was the only skill I had in entry 1, but I didn't add as much detail, so here I go. When I gooogled the sources for Culinary Software, I looked at the first website that was there and luckily, they were both reliable. However, when I googled the sources of Culinary Hardware, I looked through the rest of the websites in page 1 of Google rather than the first websites. Sometimes when I put the Google Search I go to the website that has the big boxed answers.
+<hr>
+
+### Organization
+So organization is my 2nd and new skill that I have achieved. I have used this skill on my Freedom Project Notes with bullet points. Bullet points to me are a very helpful tool for organizing ideas as well as the `<hr>` tag. So how I have organized my notes had bullet points that each represent something. 
+1. First unindented Bullet Points represent my Google Searches
+2. First indented Bullet Points represent the link to the website I found from my Google Searches
+3. Second indented Bullet Points represent the features and notes from the websites that I found from my Google Searches.
+
+This organization method of mine applies to both the Software and Hardware part of Culinary Arts.
+<hr>
+
+## Conclusion
+These were the only things I had, but when we get to entry 3, I'll have more info and skills on my Culinary Arts. Thank you for reading this 2nd entry. I hope you understand the process of evolving our entries. From getting one skill to 2 skills and moving to a new part of the Engineering Design Process. Until next time, bye!
 
 [Previous](entry01.md) | [Next](entry03.md)
 
