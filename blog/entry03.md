@@ -46,7 +46,9 @@ First, up I organized all my inventions with bullet points.
     * An AI that speaks to you in correlation to the freezer.
     * Can tell you when items are frozen.
 
-As you can see there are two inventions that have similar names. That is because I imagined an "o-clock" company making those inventions. Right now, I'm only imagining the "Fry-o-clock" and the "Freeze-o-clock" making it as future inventions. I finalized this from my Freedom Project Content by adding transitioning text from Part A to Part B.
+As you can see there are two inventions that have similar names. That is because I imagined an "o-clock" company making those inventions. Right now, I'm only imagining the "Fry-o-clock" and the "Freeze-o-clock" making it as future inventions. I finalized this from my Freedom Project Content by adding transitioning text from Part A to Part B. Although I think I need to remove the Google Searches I did as those are the "behind the scenes" parts of my Freedom Project.
+
+## Sources
 
 
 
