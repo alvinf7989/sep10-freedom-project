@@ -50,7 +50,31 @@ As you can see there are two inventions that have similar names. That is because
 
 ## Sources
 
+## Engineering Design Process (EDP)
+Since, I am thinking of the Culinary inventions in the future, I would say that I'm in the Brainstorming Process of the Engineering Design. I just wonder how I'll plan these inventions of mine.
 
+## Skills
+I now have three skills: How To Google, Organization and my new skill, Creativity.
+
+### How To Google
+This was my first skill in the Freedom Project and I used this skill a lot in Part A when I looked up the soft and hardwares of Culinary Art inventions. I had different Googling techniques a=for the two. FOr Software, I looked at the first website that showed up and luckily they were all reliable web apps. For Hardware, however it wasn't always the first website. I actually had to go through many websites to find powered Culinary Hardware.
+
+### Organization
+This was another skill I learned by organizing my notes with the usage of bullet points. SO you're wondering, how did you organize them? Well, I had the bullet points represent something about the inventions in the past.
+
+* <-- This bullet point represents the name of the Google Search
+  * <-- This indented bullet point represents the link to the website found from Google Search.
+    * <-- This other indented bullet point represents the descriptions for the websites.
+
+I also used this skill from Part B of Freedom Project, where I listed all the ideas and descriptions and I organized them like this
+
+* <-- This bullet point represents the invention name
+  * <-- This indented bullet point represents the description about the invention.
+    * <-- This other indented bullet point represents the ideas for the invention.
+      * <-- The second squared bullet point which represents more ideas for the other ideas
+
+### Creativity
+This was a new skill that I gained during Part B, when I imagined and brainstormed a few future culinary inventions like the Freeze-o-clock or Fry-o-clock. This was also a skill that I value in general. But this was not the only skill because when we get to the next blog entry, I'll have one or more new skills.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
