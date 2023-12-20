@@ -49,15 +49,16 @@ First, up I organized all my inventions with bullet points.
 As you can see there are two inventions that have similar names. That is because I imagined an "o-clock" company making those inventions. Right now, I'm only imagining the "Fry-o-clock" and the "Freeze-o-clock" making it as future inventions. I finalized this from my Freedom Project Content by adding transitioning text from Part A to Part B. Although I think I need to remove the Google Searches I did as those are the "behind the scenes" parts of my Freedom Project.
 
 ## Sources
+I didn't really use sources to think of these new inventions for the future, but I did use references of other Freedom Projects that inspired the way I organized things. 
 
 ## Engineering Design Process (EDP)
-Since, I am thinking of the Culinary inventions in the future, I would say that I'm in the Brainstorming Process of the Engineering Design. I just wonder how I'll plan these inventions of mine.
+Since, I am thinking of the Culinary inventions in the future, I would say that I'm in the Brainstorming Process of the Engineering Design. I just wonder how I'll plan these inventions of mine. And when it's the final entry, I will recap on all of my Process levels I've been through.
 
 ## Skills
-I now have three skills: How To Google, Organization and my new skill, Creativity.
+After Part A and Part B of the Freedom Project, I now have three skills: How To Google, Organization and my new skill, Creativity.
 
 ### How To Google
-This was my first skill in the Freedom Project and I used this skill a lot in Part A when I looked up the soft and hardwares of Culinary Art inventions. I had different Googling techniques a=for the two. FOr Software, I looked at the first website that showed up and luckily they were all reliable web apps. For Hardware, however it wasn't always the first website. I actually had to go through many websites to find powered Culinary Hardware.
+This was my first skill in the Freedom Project and I used this skill a lot in Part A when I looked up the soft and hardwares of Culinary Art inventions. I had different Googling techniques for the two. For Software, I looked at the first website that showed up and luckily they were all reliable web apps. For Hardware, however it wasn't always the first website. I actually had to go through many websites to find powered Culinary Hardware.
 
 ### Organization
 This was another skill I learned by organizing my notes with the usage of bullet points. SO you're wondering, how did you organize them? Well, I had the bullet points represent something about the inventions in the past.
