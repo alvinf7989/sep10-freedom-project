@@ -49,13 +49,13 @@ First, up I organized all my inventions with bullet points.
 As you can see there are two inventions that have similar names. That is because I imagined an "o-clock" company making those inventions. Right now, I'm only imagining the "Fry-o-clock" and the "Freeze-o-clock" making it as future inventions. I finalized this from my Freedom Project Content by adding transitioning text from Part A to Part B. Although I think I need to remove the Google Searches I did as those are the "behind the scenes" parts of my Freedom Project.
 
 ## Sources
-I didn't really use sources to think of these new inventions for the future, but I did use references of other Freedom Projects that inspired the way I organized things. 
+I didn't really use sources to think of these new inventions for the future, but I did use references of other Freedom Projects that inspired the way I organized things. Projects like [Medical Practice Through Time](https://andyc6074.github.io/sep10-freedom-project/) where if you click on future ideas in the bottom, it displays lists of ideas in bullet points in a very organized way inspired me to organize my ideas with bullet points more advancedly by the use of indenting.
 
 ## Engineering Design Process (EDP)
 Since, I am thinking of the Culinary inventions in the future, I would say that I'm in the Brainstorming Process of the Engineering Design. I just wonder how I'll plan these inventions of mine. And when it's the final entry, I will recap on all of my Process levels I've been through.
 
 ## Skills
-After Part A and Part B of the Freedom Project, I now have three skills: How To Google, Organization and my new skill, Creativity.
+After Part A and Part B of the Freedom Project, I now have three skills: How To Google, Organization and my new skill, Creativity. I will list them here.
 
 ### How To Google
 This was my first skill in the Freedom Project and I used this skill a lot in Part A when I looked up the soft and hardwares of Culinary Art inventions. I had different Googling techniques for the two. For Software, I looked at the first website that showed up and luckily they were all reliable web apps. For Hardware, however it wasn't always the first website. I actually had to go through many websites to find powered Culinary Hardware.
@@ -72,7 +72,9 @@ I also used this skill from Part B of Freedom Project, where I listed all the id
 * <-- This bullet point represents the invention name
   * <-- This indented bullet point represents the description about the invention.
     * <-- This other indented bullet point represents the ideas for the invention.
-      * <-- The second squared bullet point which represents more ideas for the other ideas
+      * <-- The second squared bullet point which represents more ideas for the other ideas.
+
+I was also inspired with these organizations by a few other Freedom Projects.
 
 ### Creativity
 This was a new skill that I gained during Part B, when I imagined and brainstormed a few future culinary inventions like the Freeze-o-clock or Fry-o-clock. This was also a skill that I value in general. But this was not the only skill because when we get to the next blog entry, I'll have one or more new skills.
