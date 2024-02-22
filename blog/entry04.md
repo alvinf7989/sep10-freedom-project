@@ -31,10 +31,10 @@ button {
 }
 ```
 
-This code uses the following `var()` element for two colors and they are used globally. Do you see the root selector that's on the top of the code snippet? That's what makes the CSS variables global
+This code uses the following `var()` element for two colors and they are used globally. Do you see the root selector that's on the top of the code snippet? That's what makes the CSS variables global. To make a local variable you have to put the `--blue` and/or `--white` variable in the selector they choose the color in. Now I tinkered with this by changing the hex code for the `--white` variable from `#ffffff` to `#000000` which makes black. Another way of tinkering of mine was making a local variable by changing th
 
 ## Sources
-The 2 sources that I used for CSS Variables were [W3schools](https://www.w3schools.com/css/css3_variables.asp) and [FreeCodeCamp](https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/) and as I said before, only the W3schools website can let me edit the code through the CSS Variables website. If I go to the FreeCodeCamp CSS Variables website it will let me see the code.
+The 2 sources that I used for CSS Variables were [W3schools](https://www.w3schools.com/css/css3_variables.asp) and [FreeCodeCamp](https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/) and as I said before, only the W3schools website can let me edit the code through the CSS Variables website. If I go to the FreeCodeCamp CSS Variables website it will only let me _see_ the code and preview.
 
 ## EDP
 I am at the Planning part of the proccess where I plan to use the CSS Variable tool for my Freedom Project. Right now, I use the tool to rise to the next Engineering Design Process.
