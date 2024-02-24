@@ -31,13 +31,52 @@ button {
 }
 ```
 
-This code uses the following `var()` element for two colors and they are used globally. Do you see the root selector that's on the top of the code snippet? That's what makes the CSS variables global. To make a local variable you have to put the `--blue` and/or `--white` variable in the selector they choose the color in. Now I tinkered with this by changing the hex code for the `--white` variable from `#ffffff` to `#000000` which makes black. Another way of tinkering of mine was making a local variable by changing th
+This code uses the following `var()` element for two colors and they are used globally. Do you see the root selector that's on the top of the code snippet? That's what makes the CSS variables global. To make a local variable you have to put the `--blue` and/or `--white` variable in the selector they choose the color in. Now I tinkered with this by changing the hex code for the `--white` variable from `#ffffff` to `#000000` which makes black. Another way of tinkering of mine was making a local variable by changing the background color of the button or container from white to a different color and give a new variable with two dashes in the selector rather than the `root` selector. So that is roughly what I learned from CSS Variables, but for a bonus since we are now learning about bootstrap I will talk about the Variables in Media Queries. Media Queries **are** related to bootstrap after all.
+
+```
+/* Variable declarations */
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+}
+
+.container {
+  --fontsize: 25px;
+}
+
+/* Styles */
+body {
+  background-color: var(--blue);
+}
+
+h2 {
+  border-bottom: 2px solid var(--blue);
+}
+
+.container {
+  color: var(--blue);
+  background-color: var(--white);
+  padding: 15px;
+  font-size: var(--fontsize);
+}
+
+@media screen and (min-width: 450px) {
+  .container {
+    --fontsize: 50px;
+  }
+}
+```
+
 
 ## Sources
 The 2 sources that I used for CSS Variables were [W3schools](https://www.w3schools.com/css/css3_variables.asp) and [FreeCodeCamp](https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/) and as I said before, only the W3schools website can let me edit the code through the CSS Variables website. If I go to the FreeCodeCamp CSS Variables website it will only let me _see_ the code and preview.
 
 ## EDP
-I am at the Planning part of the proccess where I plan to use the CSS Variable tool for my Freedom Project. Right now, I use the tool to rise to the next Engineering Design Process.
+I am at the Planning part of the proccess where I plan to use the CSS Variable tool for my Freedom Project. Right now, I use the tool to rise to the next Engineering Design Process which will be the Creating part.
+
+## Skills
+
+### How To Google
 
 [Previous](entry03.md) | [Next](entry05.md)
 
