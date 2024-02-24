@@ -74,6 +74,7 @@ The 2 sources that I used for CSS Variables were [W3schools](https://www.w3schoo
 I am at the Planning part of the proccess where I plan to use the CSS Variable tool for my Freedom Project. Right now, I use the tool to rise to the next Engineering Design Process which will be the Creating part.
 
 ## Skills
+
 ### Recap
 * How To Google: I used this skill for Part A when I had to search up software and hardware inventions for my Culinary-related Freedom Project.
 
@@ -90,7 +91,8 @@ And in Part B, I organized my ideas also in bullet points like this:
 
 * Creativity: This was another skill I learned from naming my products in Part B like the O-Clock devices that I thought of back then: Fry-O-Clock & Freeze-O-Clock.
 
-* 
+### My New Skill
+**Debugging:** Debugging is my new skill as I looked for the tool known as CSS Variables. This was a new skill that I learned because this skill involves tinkering with a tool and by using the websites for CSS Variables, I was able to tinker in the [W3schools](https://www.w3schools.com/css/css3_variables.asp) website by creating my own local and global variables.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
