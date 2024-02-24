@@ -65,7 +65,7 @@ h2 {
   }
 }
 ```
-In this code snippet you'll see that there's a local variable in the media query and the `container` class. I can tell because in the `.container` selector on the top, the `fontsize` variable is set to `25px` while the `fontsize` variable variable in the `@media` query is set to `50px` 
+In this code snippet you'll see that there's a local variable in the media query and the `container` class. I can tell because in the `.container` selector on the top, the `fontsize` variable is set to `25px` while the `fontsize` variable variable in the `@media` query is set to `50px`
 
 ## Sources
 The 2 sources that I used for CSS Variables were [W3schools](https://www.w3schools.com/css/css3_variables.asp) and [FreeCodeCamp](https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/) and as I said before, only the W3schools website can let me edit the code through the CSS Variables website. If I go to the FreeCodeCamp CSS Variables website it will only let me _see_ the code and preview.
@@ -75,8 +75,22 @@ I am at the Planning part of the proccess where I plan to use the CSS Variable t
 
 ## Skills
 ### Recap
-* How To Google:
+* How To Google: I used this skill for Part A when I had to search up software and hardware inventions for my Culinary-related Freedom Project.
 
+* Organization: I used this skill for both parts A & B. In part A, I organized my ideas in bullet points like this:
+* <-- This bullet point represents the name of the Google Search
+  * <-- This indented bullet point represents the link to the website found from Google Search.
+    * <-- This other indented bullet point represents the descriptions for the websites.
+
+And in Part B, I organized my ideas also in bullet points like this:
+* <-- This bullet point represents the invention name
+  * <-- This indented bullet point represents the description about the invention.
+    * <-- This other indented bullet point represents the ideas for the invention.
+      * <-- The second squared bullet point which represents more ideas for the other ideas.
+
+* Creativity: This was another skill I learned from naming my products in Part B like the O-Clock devices that I thought of back then: Fry-O-Clock & Freeze-O-Clock.
+
+* 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
