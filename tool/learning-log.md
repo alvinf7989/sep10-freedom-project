@@ -1,17 +1,16 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **CSS Variables**
 
 ---
 
-X/X/X:
-* Text
-
-X/X/X:
+2/26/24:
 * Text
 
 
-<!-- 
+
+
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
