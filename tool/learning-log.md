@@ -4,8 +4,8 @@ Tool: **CSS Variables**
 
 ---
 
-2/26/24:
-* Text
+2/28/24:
+* [W3Schools](https://www.w3schools.com/css/css3_variables.asp) Tinkered with the first example of variables by changing the white element to black. But I can do better.
 
 
 
