@@ -51,6 +51,59 @@ body {
 So, what I did was change the `main-background` and `text-color` from blue & white to cyan & green.
 
 3/11/24
+* I organized the boxes by color in the second example of FreeCodeCamp. Here's what the html looked like before:
+```
+<div class="box-container">
+  <div class="box red-box">Box 1</div>
+  <div class="box green-box">Box 2</div>
+  <div class="box blue-box">Box 3</div>
+</div>
+<div class="box-container">
+  <div class="box blue-box">Box 4</div>
+  <div class="box green-box">Box 5</div>
+  <div class="box red-box">Box 6</div>
+</div>
+```
+
+And here's what the CSS looked like before:
+```
+:root {
+  --maroon-red: #800000;
+  --dark-green: #013220;
+  --navy-blue: #000080;
+  --white: #fff;
+}
+
+.box-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  color: var(--white);
+}
+
+.red-box {
+  background-color: var(--maroon-red);
+}
+
+.green-box {
+  background-color: var(--dark-green);
+}
+
+.blue-box {
+  background-color: var(--navy-blue);
+}
+```
+So, what I changed was the colors and I organized the boxes in three colors, in the unchanged preview it was disorganized and too dark. Meanwhile, I gave a lighter color and dark text based on what I think makes the example better from Applied Visual Design.
 
 
 

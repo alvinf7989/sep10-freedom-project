@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    :root {
+  --light-red: #FF7F7F;
+  --light-green: #90EE90;
+  --light-blue: #ADD8E6;
+  --black: #000000;
+}
+
+.box-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  color: var(--black);
+}
+
+.red-box {
+  background-color: var(--light-red);
+}
+
+.green-box {
+  background-color: var(--light-green);
+}
+
+.blue-box {
+  background-color: var(--light-blue);
+}
+</style>
+</head>
+<body>
+    <div class="box-container">
+        <div class="box red-box">Red</div>
+        <div class="box blue-box">Blue</div>
+        <div class="box green-box">Green</div>
+      </div>
+      <div class="box-container">
+        <div class="box red-box">Red</div>
+        <div class="box blue-box">Blue</div>
+        <div class="box green-box">Green</div>
+      </div>
+</body>
