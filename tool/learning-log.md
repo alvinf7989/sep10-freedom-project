@@ -31,10 +31,26 @@ button {
   padding: 5px;
 }
 ```
-
+What I changed was the background colors for the `.container` and `button` class, which eres white at first, but I changed it to black.
 
 3/3/24
-* [FreeCodeCamp](https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/) I also tinkered with the first example of FreeCodeCamp's CSS variable example.
+* [FreeCodeCamp](https://www.freecodecamp.org/news/what-are-css-variables-and-how-to-use-them/) I also tinkered with the first example of FreeCodeCamp's CSS variable example. This was the CSS code in the beginning:
+
+```
+:root {
+  --main-bg-color: #000080;
+  --main-text-color: #fff;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+  text-align: center;
+}
+```
+So, what I did was change the `main-background` and `text-color` from blue & white to cyan & green.
+
+3/11/24
 
 
 
