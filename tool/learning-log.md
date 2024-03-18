@@ -105,6 +105,10 @@ And here's what the CSS looked like before:
 ```
 So, what I changed was the colors and I organized the boxes in three colors, in the unchanged preview it was disorganized and too dark. Meanwhile, I gave a lighter color and dark text based on what I think makes the example better from Applied Visual Design.
 
+3/18/24
+* I have tinkered with the 2nd example of W3Schools by changing two colors and adding a third color. And I also used `@keyframes` for the buttons when you hover and saw if I can use the variables for `@keyframes`, and you can. And then I used `text-align` to fix the positioning of the header. You can see all of these code snippets on the sources.
+
+
 
 
 

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+:root {
+  --dark-green: #013220;
+  --light-blue: #add8e6;
+  --fade-blue: #5b93a4;
+}
+
+body {
+  background-color: var(--light-blue);
+}
+
+h2 {
+  border-bottom: 2px solid var(--light-blue);
+}
+
+.container {
+  color: var(--light-blue);
+  background-color: var(--dark-green);
+  padding: 15px;
+}
+
+.center {
+    text-align: center;
+}
+
+button {
+  background-color: var(--dark-green);
+  color: var(--light-blue);
+  border: 1px solid var(--light-blue);
+  padding: 5px;
+}
+
+button:hover {
+    animation-name: clique;
+    animation-duration: 500ms;
+    animation-fill-mode: forwards;
+}
+
+@keyframes clique {
+    100% {
+        background-color: var(--fade-blue);
+    }
+}
+</style>
+</head>
+<body>
+
+<h1 class="center">Using the var() Function</h1>
+
+<div class="container">
+  <h2>Lorem Ipsum</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit.</p>
+  <p>
+    <button>Yes</button>
+    <button>No</button>
+  </p>
+</div>
+
+</body>
+</html>
