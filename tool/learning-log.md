@@ -108,6 +108,34 @@ So, what I changed was the colors and I organized the boxes in three colors, in 
 3/18/24
 * I have tinkered with the 2nd example of W3Schools by changing two colors and adding a third color. And I also used `@keyframes` for the buttons when you hover and saw if I can use the variables for `@keyframes`, and you can. And then I used `text-align` to fix the positioning of the header. You can see all of these code snippets on the sources.
 
+3/21/24
+* I used my tool on the Shabr project by adding a few colors and givng them Variable names. Here's my `root:`
+```
+:root {
+    --blue: #1979e6;
+    --orange: #ffbf00;
+    --red: #ff0048;
+    --yellow: #fbed04;
+}
+```
+And here are the properties that used them:
+```
+body {
+    background-color: var(--orange);
+}
+
+.red-background {
+    background-color: var(--red);
+}
+
+.bluey {
+    background-color: var(--blue);
+}
+
+.yellow-back {
+    background-color: var(--yellow);
+}
+```
 
 
 
