@@ -137,7 +137,20 @@ body {
 }
 ```
 
+4/3/24
+* I watched a YouTube video online on [CSS Variables Tutorial](https://www.youtube.com/watch?v=sQUB039MG0I) and this teached me how to override variables and use local variables. For example, for local variables the video showed this root:
 
+```
+:root {
+        --main-bg-color:#f4f4f4;
+        --main-txt-color: #333;
+        --container-width: 90%;
+        --header-bg-color: #333;
+        --header-txt-color: #fff;
+    }
+```
+And it also showed the `.box` class with a local variable:
+```
 
 
 <!--
