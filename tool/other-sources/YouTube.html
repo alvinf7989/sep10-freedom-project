@@ -6,6 +6,8 @@
         --main-bg-color:#f4f4f4;
         --main-txt-color: #333;
         --container-width: 90%;
+        --header-bg-color: #333;
+        --header-txt-color: #fff;
     }
 
     body {
@@ -21,3 +23,38 @@
         width: var(--container-width);
         margin: 20px auto;
     }
+
+    header#main-header {
+        background-color: var(--header-bg-color);
+        color: var(--header-txt-color);
+    }
+
+    header#main-header h1{
+        padding:0;
+        margin:0;
+    }
+
+    .box {
+        --box-bg-color: #ddd;
+        --box-main-color: #06c;
+    }
+</style>
+</head>
+<body>
+    <header id="main-header">
+        <h1>CSS Variables</h1>
+    </header>
+
+    <div class="container">
+     <div class="grid">
+      <div class="box">
+        <h1>Hello World</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi quis hendrerit dolor magna. Tincidunt dui ut ornare lectus sit amet. Quis lectus nulla at volutpat diam ut venenatis tellus in.</p>
+      </div>
+      <div class="box">
+        <h1>Hello World</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi quis hendrerit dolor magna. Tincidunt dui ut ornare lectus sit amet. Quis lectus nulla at volutpat diam ut venenatis tellus in.</p>
+      </div>
+     </div>
+    </div>
+</body>
