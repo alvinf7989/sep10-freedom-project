@@ -151,7 +151,12 @@ body {
 ```
 And it also showed the `.box` class with a local variable:
 ```
-
+.box {
+        --box-bg-color: #ddd;
+        --box-main-color: #06c;
+    }
+```
+The guy in the video even said that the `--box-bg-color` and `--box-main-color` variables can only be used in the `.box` class. Now an example
 
 <!--
 * Links you used today (websites, videos, etc)
