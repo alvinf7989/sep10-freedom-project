@@ -156,7 +156,22 @@ And it also showed the `.box` class with a local variable:
         --box-main-color: #06c;
     }
 ```
-The guy in the video even said that the `--box-bg-color` and `--box-main-color` variables can only be used in the `.box` class. Now an example
+The guy in the video even said that the `--box-bg-color` and `--box-main-color` variables can only be used in the `.box` class. Now from overriding variables, I learned that if you put in a local variable in a selector, class or id and change the property of that variable that already has property as a global variable, it will **only** affect the selector, class or id you put the variable in. here's what the `--box-main-color` variable shows for the box class:
+```
+.box {
+  --box-main-color: #06c;
+}
+```
+And here's what the `--box-main-color` value has as the overriding variable in the `.box p` class:
+```
+.box p {
+    --box-main-color: #555;
+    color: var(--box-main-color);
+}
+```
+
+4/4/24
+* 
 
 <!--
 * Links you used today (websites, videos, etc)
