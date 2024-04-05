@@ -171,7 +171,33 @@ And here's what the `--box-main-color` value has as the overriding variable in t
 ```
 
 4/4/24
-* 
+* I added another example from W3Schools about overriding variables and it was neat. The original root showed this at first:
+```
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+}
+```
+So, I did a few tweaks to this root and here's what I ended up with:
+```
+:root {
+  --blue: #1e90ff;
+  --yellow: #ffff00;
+  --fade-blue: #afafff;
+}
+```
+But that's not all because in the button selector I added a local variable inside that overrides another variable. In the example, it showed one overriden blue variable, but I added another yellow variable that overrides by changing the yellow color to an orange-yellow color. here's how the button selector looks after my tweaks:
+```
+button {
+  --blue: #0000ff;
+  --yellow: #ffb100;
+  background-color: var(--yellow);
+  color: var(--blue);
+  border: 1px solid var(--blue);
+  padding: 5px;
+}
+```
+
 
 <!--
 * Links you used today (websites, videos, etc)
