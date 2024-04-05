@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+:root {
+    --box-color: #b45bdf;
+}
+
+.one {
+    --box-color: aquamarine;
+    color: var(--txt-color, blue);
+  background-color: var(--box-color);
+}
+
+.two {
+    --box-color: pink;
+    color: var(--txt-colore, red);
+  background-color: var(--box-color);
+}
+
+.three {
+    --box-color: green;
+    color: var(--txt-colour, #c784e7);
+  background-color: var(--box-color);
+}
+
+.four {
+    color: var(--txt-col0r, white);
+    background-color: var(--box-color);
+}
+</style>
+</head>
+<body>
+      <div class="one">
+        <p>One</p>
+      </div>
+      <div class="two">
+        <p>Two</p>
+      </div>
+      <div class="three">
+        <p>Three</p>
+      </div>
+      <div class="four">
+        <p>Four</p>
+      </div>
+</body>

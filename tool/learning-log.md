@@ -198,7 +198,64 @@ button {
 }
 ```
 
+4/5/24
+* I was told that this was the last day of my learning log, so I organized my last three days like this
 
+**Day 1**
+* Add a YouTube example to other-sources directory and tinker and type what I learned.
+
+**Day 2**
+* Add another example from W3Schools to learn about overriding variables.
+
+**Day 3**
+* Add mdn-web-docs example to other-sources directory and learn about fallback values.
+
+But let's get to what I actually did with my tool. So what I did was learn about fallback values. That meant that if you put a variable name inside the `var()` element and the variable doesn't have a property, you would have to add a cvalue, so that way the the selector's elements can change to that value. Here's what I did for my CSS.
+
+```
+:root {
+    --box-color: #b45bdf;
+}
+
+.one {
+    --box-color: aquamarine;
+    color: var(--txt-color, blue);
+  background-color: var(--box-color);
+}
+
+.two {
+    --box-color: pink;
+    color: var(--txt-colore, red);
+  background-color: var(--box-color);
+}
+
+.three {
+    --box-color: green;
+    color: var(--txt-colour, #c784e7);
+  background-color: var(--box-color);
+}
+
+.four {
+    color: var(--txt-col0r, white);
+    background-color: var(--box-color);
+}
+```
+As shown, you can see that I used both the technique of overriding variables and adding fallback values. I even put the `.four` class on the CSS to show what the global variable would be. Here's the HTML that I put:
+```
+      <div class="one">
+        <p>One</p>
+      </div>
+      <div class="two">
+        <p>Two</p>
+      </div>
+      <div class="three">
+        <p>Three</p>
+      </div>
+      <div class="four">
+        <p>Four</p>
+      </div>
+```
+This is not all that important it just shows different colored rows in text.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
