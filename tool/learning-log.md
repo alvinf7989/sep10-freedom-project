@@ -210,7 +210,7 @@ button {
 **Day 3**
 * Add mdn-web-docs example to other-sources directory and learn about fallback values.
 
-But let's get to what I actually did with my tool. So what I did was learn about fallback values. That meant that if you put a variable name inside the `var()` element and the variable doesn't have a property, you would have to add a cvalue, so that way the the selector's elements can change to that value. Here's what I did for my CSS.
+But let's get to what I actually did with my tool. So what I did was learn about fallback values. That meant that if you put a variable name inside the `var()` element and the variable doesn't have a property, you would have to add a value, so that way the the selector's elements can change to that value. Here's what I did for my CSS.
 
 ```
 :root {
