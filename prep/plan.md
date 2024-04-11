@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/gsq6jo)
+* [Desktop](https://wireframe.cc/gi0l5z)
 
 ## Colors
 * `#ABC123`
@@ -20,4 +20,4 @@
 
 #### Beyond MVP
 
-* Task
+* Add CSS Variables to Conclusion, Part A, Part B, and Introduction
