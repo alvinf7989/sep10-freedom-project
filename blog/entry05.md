@@ -177,7 +177,12 @@ On the last day, I added another file on the other sources directory. This time,
     background-color: var(--box-color);
 }
 ```
-What you see in this code snippet is all of the fallback values because there's no such thing as the `txt-color` variables. After I learned all of this, I was able to use local & global variables along with fallback values and technique of overriding global & local variables. A thing that I didn't mention is that some of the variable names aren't named after colors, they're named after the element they respond to. This made me wonder if I should do that for my Freedom Project website. 
+What you see in this code snippet is all of the fallback values because there's no such thing as the `txt-color` variables. After I learned all of this, I was able to use local & global variables along with fallback values and technique of overriding global & local variables. A thing that I didn't mention is that some of the variable names aren't named after colors, they're named after the element they respond to. This made me wonder if I should do that for my Freedom Project website.
+
+## Skills
+Now let's get a recap of all the skillSo I made a mistake when I said that debugging was my skill for the 4th entry. Turns out I was meant to have that skill once I finish my learning log.
+
+### How To
 
 [Previous](entry04.md) | [Next](entry06.md)
 
