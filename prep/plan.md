@@ -5,10 +5,13 @@
 * [Desktop](https://wireframe.cc/gi0l5z)
 
 ## Colors
-* `#366fc9`
+* `#11427a` (Blue)
+* (White)
+* `#2ed422` (Green)
 
 ## Fonts
-* [Text](URL)
+* [Kanit](https://fonts.google.com/specimen/Kanit)
+* [Oswald](https://fonts.google.com/specimen/Oswald?query=oswal)
 
 ## Timeline
 
@@ -20,4 +23,4 @@
 
 #### Beyond MVP
 
-* Add CSS Variables to Conclusion, Part A, Part B, and Introduction
+* Add CSS Variables to Conclusion, Part A, Part B, Items of Hardware and Introduction
