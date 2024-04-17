@@ -44,14 +44,41 @@ Now that we are done with Software, that doesn’t mean we are done with the res
 
 Now that we are done with both Software and Hardware of Culinary Arts, we move on to the Internet of Things (IoT) of Culinary Arts.
 Now, these are all the Culinary inventions in the past, let’s talk about the future of Culinary inventions.
-* Idea
-  * Detail
-    *
-    *
-    *
+* The auto spinning whisk
+  * This is a whisk that spins by itself and has the following features:
+    * Can be rechargeable with Type C Charging
+    * Or can use two AA batteries
+    * Can adjust the speeds 1 to 5 on the whisk
 
-* Idea
-  * Detail
-    *
-    *
-    *
+* Fry-o-clock
+  * A deep fryer that tells you when the food in the fryer is done cooking.
+    * Perfect for those that can’t remember the time
+    * Can change the temperature.
+    * Active when plugged in
+
+* Mini Oven 2.0
+  * A miniature oven like no other with some more features.
+    * Can change the temperature of how high the heat should be.
+    * Can handle 4 big trays or 8 smaller trays.
+    * Bigger than a normal miniature oven, but smaller than a big oven.
+    * Works as long as it’s plugged.
+    * Works with cupcake trays and others
+    * Fast heating feature which is allowed to be usable every 6 hours.
+    * Removable tray display
+
+* Freeze-o-clock
+  * A mini Freezer that tells you when an item is done freezing
+    * Can set the timer or have the following modes:
+      * Jelly which has the timer set to how long it takes for the jelly to be frozen
+      * Frozen Solid which sets the timer to how long for an item to be frozen solid.
+      * Ice cream which sets the timer to whenever the ice cream is ready to eat
+    * Has all these features usable at the same time.
+    * Also with representation
+      * If it’s red, the item isn’t frozen
+      * If it’s blue, the item is frozen
+      * If it’s blue but it shows a frozen ice block, the item is too frozen
+    * Active when plugged in.
+    * Adjust the coldness of the freezer.
+    * An AI that speaks to you in correlation to the freezer.
+      * Can tell you when items are frozen.
+      * Have the option turn on and off. Default is on.
