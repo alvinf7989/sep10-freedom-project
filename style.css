@@ -1,0 +1,9 @@
+root: {
+
+}
+
+.header-img {
+    background-image: url(img/culinary-image.jpeg);
+    width: 2000px;
+    height: 100px;
+}
