@@ -1,9 +1,27 @@
-root: {
-
+:root {
+    --header-text: #fff;
+    --border-color: #2ed422;
+    --header-img: url(img/culinary-image.jpeg);
 }
 
-.header-img {
-    background-image: url(img/culinary-image.jpeg);
-    width: 2000px;
-    height: 100px;
+.head-image {
+    background-image: var(--header-img);
+    width: 2033px;
+    height: 300px;
+}
+
+.head-text {
+    color: var(--header-text);
+}
+
+.kanit-wait {
+    font-family: Kanit;
+}
+
+.verde-border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--border-color);
+    border-radius: 20px;
+    padding: 10px;
 }
