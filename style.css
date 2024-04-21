@@ -2,11 +2,13 @@
     --header-text: #fff;
     --border-color: #2ed422;
     --header-img: url(img/culinary-image.jpeg);
+    --bg-colour: #11427a;
+    --bland-border: black;
 }
 
 .head-image {
     background-image: var(--header-img);
-    width: 2033px;
+    width: 1550px;
     height: 300px;
 }
 
@@ -18,10 +20,34 @@
     font-family: Kanit;
 }
 
+.oswaldo {
+    font-family: Oswald;
+}
+
 .verde-border {
     border-width: 5px;
     border-style: solid;
     border-color: var(--border-color);
     border-radius: 20px;
     padding: 10px;
+    text-align: center;
+}
+
+.light-blu-border {
+    --border-color: #93e6f1;
+}
+
+.light-blu-border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--border-color);
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.black-border {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--bland-border);
 }
