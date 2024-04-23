@@ -11,7 +11,8 @@
 
 ## Fonts
 * [Kanit](https://fonts.google.com/specimen/Kanit)
-* [Oswald](https://fonts.google.com/specimen/Oswald?query=oswal)
+* [Oswald](https://fonts.google.com/specimen/Oswald)
+* [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 
 ## Timeline
 

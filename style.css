@@ -51,3 +51,7 @@
     border-style: solid;
     border-color: var(--bland-border);
 }
+
+.bunt-cake {
+    font-family: Ubuntu;
+}
