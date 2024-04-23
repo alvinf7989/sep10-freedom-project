@@ -46,6 +46,13 @@
     text-align: center;
 }
 
+.light-blu-border-side {
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--border-color);
+    border-radius: 20px;
+    padding: 10px;
+}
 .black-border {
     border-width: 1px;
     border-style: solid;
@@ -54,4 +61,8 @@
 
 .bunt-cake {
     font-family: Ubuntu;
+}
+
+.get-align {
+    text-align: center;
 }
