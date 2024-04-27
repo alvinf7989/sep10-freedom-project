@@ -4,6 +4,7 @@
     --header-img: url(img/culinary-image.jpeg);
     --bg-colour: #11427a;
     --bland-border: black;
+    --part-b: #cf30c0;
 }
 
 .head-image {
@@ -49,7 +50,7 @@
 .light-blu-border-side {
     border-width: 5px;
     border-style: solid;
-    border-color: var(--border-color);
+    border-color: #11427a;
     border-radius: 20px;
     padding: 10px;
 }
@@ -66,3 +67,26 @@
 .get-align {
     text-align: center;
 }
+
+.purpul-border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--part-b);
+    border-radius: 20px;
+}
+
+.right-point {
+    margin-left: 15px;
+}
+
+.right-point-more {
+    margin-left: 30px;
+}
+
+.light-colors {
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+  }
+
+  .light-colors-switch {
+    background: linear-gradient(35deg, #FFCCCC, #CCFFFF);
+  }

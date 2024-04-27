@@ -62,9 +62,9 @@ Now, these are all the Culinary inventions in the past, let’s talk about the f
     * Can handle 4 big trays or 8 smaller trays.
     * Bigger than a normal miniature oven, but smaller than a big oven.
     * Works as long as it’s plugged.
-    * Works with cupcake trays and others
+    * Works with cupcake trays and others.
     * Fast heating feature which is allowed to be usable every 6 hours.
-    * Removable tray display
+    * Removable tray display.
 
 * Freeze-o-clock
   * A mini Freezer that tells you when an item is done freezing
