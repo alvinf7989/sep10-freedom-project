@@ -9,7 +9,7 @@
 
 .head-image {
     background-image: var(--header-img);
-    width: 1550px;
+    width: 2034px;
     height: 300px;
 }
 
@@ -89,4 +89,8 @@
 
   .light-colors-switch {
     background: linear-gradient(35deg, #FFCCCC, #CCFFFF);
+  }
+
+  @media (min-width ){
+
   }
