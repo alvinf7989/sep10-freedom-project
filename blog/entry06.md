@@ -36,7 +36,7 @@ And for those that are wondering...
 * `--border-color`(.light-blu-border) = Light-blue
 * `--bg-colour` = Dark-blue
 * `--part-b` = Pink
-
+<hr>
 
 
 [Previous](entry05.md) | [Next](entry07.md)
