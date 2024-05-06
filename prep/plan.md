@@ -24,4 +24,9 @@
 
 #### Beyond MVP
 
-* Add CSS Variables to Conclusion, Part A, Part B, Items of Hardware and Introduction
+* Add more images and give credit.
+* Fix the image to not be duplicated.
+* Use Bootstrap icons to add buttons on the bottom that will send you to the beginning.
+* Use linear gradient for the image, so it fades to white.
+* Use darker colors for the background. (Maybe even fallback values.
+
