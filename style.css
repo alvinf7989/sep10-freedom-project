@@ -11,6 +11,8 @@
     background-image: var(--header-img);
     /* width: 2033px; */
     height: 300px;
+    background-size: cover;
+    background-color: linear-gradient();
 }
 
 .head-text {
@@ -95,5 +97,6 @@
 i {
 color: white;
 width: 100px;
-height: 100px;
+height: 90px;
+font-size: 50px;
 }
