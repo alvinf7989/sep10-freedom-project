@@ -12,7 +12,8 @@
     /* width: 2033px; */
     height: 300px;
     background-size: cover;
-    background-color: linear-gradient();
+    background-color: var(--bg-colour);
+    background-blend-mode: multiply;
 }
 
 .head-text {
@@ -100,3 +101,4 @@ width: 100px;
 height: 90px;
 font-size: 50px;
 }
+
