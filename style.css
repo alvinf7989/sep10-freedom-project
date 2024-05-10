@@ -102,3 +102,10 @@ height: 90px;
 font-size: 50px;
 }
 
+.tablets {
+    max-width: 100%;
+    width: 500px;
+    height: 180px;
+    border: solid;
+    border-color: green;
+}
