@@ -1,10 +1,11 @@
 :root {
     --header-text: #fff;
-    --border-color: #2ed422;
+    --border-color: #6be57f;
     --header-img: url(img/culinary-image.jpeg);
     --bg-colour: #11427a;
     --bland-border: black;
     --part-b: #cf30c0;
+    --grad-clr-1: #93e6f1;
 }
 
 .head-image {
@@ -94,13 +95,17 @@
     background: linear-gradient(35deg, #FFCCCC, #CCFFFF);
   }
 
+  .light-colors-side {
+    background: linear-gradient(70deg, #CCFFFF, #FFCCCC);
+  }
 
-i {
-color: white;
-width: 100px;
-height: 90px;
-font-size: 50px;
-}
+  .gradiente {
+    background: linear-gradient(to bottom, #CCFFFF, var(--grad-clr-1), #FFCCCC, #11427a, #CCFFFF, var(--part-b));
+  }
+
+  .gradiente-dos {
+    background: linear-gradient(to bottom, var(--part-b), #CCFFFF, #FFCCCC);
+  }
 
 .tablets {
     max-width: 100%;
@@ -108,4 +113,17 @@ font-size: 50px;
     height: 180px;
     border: solid;
     border-color: green;
+}
+
+.mentor {
+    max-width: 100%;
+    max-height: 100%;
+    width: 300px;
+    height: 180px;
+    border: solid;
+    border-color: green;
+}
+
+.intro-grad {
+    background: linear-gradient(to bottom, #CCFFFF, #6be57f);
 }
