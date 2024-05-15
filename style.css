@@ -100,7 +100,7 @@
   }
 
   .gradiente {
-    background: linear-gradient(to bottom, #CCFFFF, var(--grad-clr-1), #FFCCCC, #11427a, #CCFFFF, var(--part-b));
+    background: linear-gradient(to bottom, #6be57f, var(--grad-clr-1), #FFCCCC, #11427a, #CCFFFF, var(--part-b));
   }
 
   .gradiente-dos {
