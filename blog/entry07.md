@@ -7,7 +7,17 @@ Alright, this is the final FINAL entry. I was told this by my SEP teacher. Now t
 ### Presentation
 So to plan my presentation I created a total of 7 slides as long as you don't include the title of the slides.
 
-* **1st Slide:** I said I would define art in a way that I also relate this with hobbies and that's when I relate it with my topic: Cooking.
+* **1st Slide:** I said I would define art in a way that I also relate this with hobbies and that's when I relate it with my topic: Cooking. So what I did was put a bunch of images that represent creatvie activities that define the term arts using the animation features on the slides.
+
+* **2nd Slide:** I just show a picture of the first part of my website and then make it a clickable link and it also says "My Freedom Project" at the bottom of the slide.
+
+* **3rd Slide:** I show off my Mobile wireframe that I made in a wireframe link in the use of images. Since, the image was too long I had to split the wireframe into three parts.
+
+* **4th Slide:** This is just like the 3rd slide when I showed off three parts of my wireframe because again, it was too long. The difference is that this was a Desktop wireframe. So far these wireframes closely match to what I ended up with in my Freedom Project.
+
+* **5th Slide:** For the 5th slide, I showed off my tool CSS Variables by showing the `root` class values and to make things simpler for people to understand what the values are, I put in the color names that the hex codes represent. I also put in the image of the bootstrap template I downloaded.
+
+* **6th Slide:** This slide was where I put my challenges of making the website responsive. I put in two images: The `.head-image` class and the image on the top of the Freedom Project. I put these two together to represent how hard it was to make that part of the website responsive when resizing
 
 ## Skills
 
