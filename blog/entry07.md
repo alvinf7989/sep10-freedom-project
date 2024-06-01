@@ -15,9 +15,54 @@ So to plan my presentation I created a total of 7 slides as long as you don't in
 
 * **4th Slide:** This is just like the 3rd slide when I showed off three parts of my wireframe because again, it was too long. The difference is that this was a Desktop wireframe. So far these wireframes closely match to what I ended up with in my Freedom Project.
 
-* **5th Slide:** For the 5th slide, I showed off my tool CSS Variables by showing the `root` class values and to make things simpler for people to understand what the values are, I put in the color names that the hex codes represent. I also put in the image of the bootstrap template I downloaded.
+* **5th Slide:** For the 5th slide, I showed off my tool CSS Variables by showing the `root` class values and to make things simpler for people to understand what the values are, I put in the color names that the hex codes represent. Here's the code snippet for that `root:`
+```
+:root {
+    --header-text: #fff;
+    --border-color: #6be57f;
+    --header-img: url(img/culinary-image.jpeg);
+    --bg-colour: #11427a;
+    --bland-border: black;
+    --part-b: #cf30c0;
+    --grad-clr-1: #93e6f1;
+}
+```
+ I also put in the image of the bootstrap template I downloaded.
 
-* **6th Slide:** This slide was where I put my challenges of making the website responsive. I put in two images: The `.head-image` class and the image on the top of the Freedom Project. I put these two together to represent how hard it was to make that part of the website responsive when resizing
+* **6th Slide:** This slide was where I put my challenges of making the website responsive. I put in two images: The `.head-image` class and the image on the top of the Freedom Project. Code snippet below:
+```
+.head-image {
+    background-image: var(--header-img);
+    /* width: 2033px; */
+    height: 300px;
+    background-size: cover;
+    background-color: var(--bg-colour);
+    background-blend-mode: multiply;
+}
+```
+I put these two together to represent how hard it was to make that part of the website responsive when resizing.
+
+* **7th Slide:** For the conclusion slide, I put in the link to my Freedom Project and the takeaways I put included a picture of all the `col` classes that make certains columns stack on each other during certain widths. My other takeaway was using the `img-fluid` class which sets the image at `max-width: 100%` and `height: auto`, so I put in what the `img-fluid` class does for that final slide. Speaking of putting links to the [Freedom Project](https://alvinf7989.github.io/sep10-freedom-project/)
+
+<hr> And that sums up the presentation slides. If you want to see these slides yourself, the link is right [here.](https://docs.google.com/presentation/d/12fJFXskisvxXeR-5bHr394zNwyIbpg7muUzfS_JpAzc/edit#slide=id.g2ddb72c5a47_0_58)
+
+### Expo
+This expo was located in the cafeteria on the fifth and final floor of the Hstat school building and it took 2 periods. What we did was show off our websites/Freedom Projects to viewers and judges and we'll see what the judges choose to be presented at the showcase in the auditorium. Now before the Elevator Expo Pitch, I was assigned to write my plans as to what to say to the judges in our notes which you can see mines on the Freedom Project [here.](https://docs.google.com/document/d/1WYOzoE-4xzKLydsesYDgUok3gVt1oPEcbfyBx0qhDxE/edit#heading=h.6o1f62qg6jz9) Here's what I had on my notes:
+
+* Ask the judges or people if they like cooking
+* Say that these are web apps for Part A:software
+* Showcase the Part A: Hardware that already exists
+* Introduce the Part B
+* Say that two of these Part B devices are similar
+* Say that I got more ideas for the devices of Part B from Slack
+* End with a thank you
+
+Now I've followed the plan perfectly when the Expo day started, but I also added on and said that I was proud of one of these four inventions because of the amount of ideas it had. I'm talking about the Freeze-O-Clock. Just because presentations have to end with a thank you doesn't mean that the Expos don't. I think it's important to greet and thank the audience for seeing the project and presentation.
+<hr>
+
+**EDP**
+
+After improving my Freedom Project and going beyond MVP. I'm now at the final part of the EDP which is Communicating the results. I knew I was at this process because I was talking to the audience and the judges at the expo about my project in the cafeteria.
 
 ## Skills
 
@@ -40,7 +85,7 @@ Organization was my second skill that I put on my second entry and I used organi
     * <-- This other indented bullet point represents the ideas for the invention.
       * <-- The second squared bullet point which represents more ideas for the other ideas.
 
-As you can see, I used a lot of indentation with my bullet points. I was also told that I shouldn't include the names of the Google Searches for my Freedom Project as that is "behind-the-scenes".
+As you can see, I used a lot of indentation with my bullet points. I was also told that I shouldn't include the names of the Google Searches for my Freedom Project as that is "behind-the-scenes". This wasn't the only time I used Organization because I also used bullet points for my Presentation & Expo plan as well as the last days of learning my CSS Tool.
 
 ### Creativity
 This was a skill that I put in entry 3 back when I was in Part B of the Freedom Project. In this part, we had to imagine a few products for the future that are related to our topic. And with my creativity, I imagined four devices, two of which have similar names. These products are:
@@ -89,7 +134,12 @@ This skill was the one that I "apparently" put in entry 4, despite not completin
 I used a thing called "LOYO" which meant "Learn In Your Own" and that process was very useful during my learning log. I believe the one file it was _most_ useful for was the YouTube file because I couldn't copy and paste any code there and I had to follow what the video had shown.
 
 ### Problem Decomposition
-Problem Decomposition was a new skil that I acquired because as I was making my Freedom project website, I had a few days to create the divs of each Part, so in a way, it's like breaking my task of creating a whole website into a few smaller tasks for these days of my Spring Break.
+Problem Decomposition was a new skil that I acquired because as I was making my Freedom project website, I had a few days to create the divs of each Part, so in a way, it's like breaking my task of creating a whole website into a few smaller tasks for these days of my Spring Break. <hr> Now these were all skills I've had in this past, but now there's time for one new skill:
+
+### Communication
+Ever since the expo and presentations had begun, I have acquired the skill of talking to the audience during these events. I even learned to say what's not on the slides and on the Freedom Project. I also stated back in my 5th entry that I kinda used this when sharing out my Part B ideas on Slack and that the people that gave feedback helped me improve these ideas.
+
+<hr> Well, look at how far we've gone. From just picking a topic to presenting a whole website to the judges. This truly is a 12-month journey to never forget. The only question I have is- Wait, what's that? I forgot to talk about professianalism? Oh right, I fixed up all of my typos and in fact this professionalism is used in my skills such as Attention to detail which was a skill I basically used more throughout this whole freedom project. Now back to the only question I had: There's still a few days left of class for SEP, I wonder what we'll do on those last few days after finishing the whole Freedom Project Process. Anyways, this is the actual final entry and I'll say a few things from the 5th entry. Working on this Freedom Project couldn't be possible without these 7 blog entries. Now, the next task is to finsih the Blog overviewSo, I must say again this
 
 [Previous](entry06.md) | [Next](entry08.md)
 
